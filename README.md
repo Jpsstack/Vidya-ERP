@@ -1,2 +1,2 @@
 # Vidya-ERP
-Vidya ERP - An ERP application used in educational institutes
+Vidya ERP - An ERP application used in educational institutions.
